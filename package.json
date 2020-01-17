@@ -16,7 +16,7 @@
         "utilities"
     ],
     "dependencies" : {
-        "handlebars": "4.x"
+        "handlebars": "^4.7.2"
     },
     "devDependencies" : {
         "coffee-script": "~1.6.3",
